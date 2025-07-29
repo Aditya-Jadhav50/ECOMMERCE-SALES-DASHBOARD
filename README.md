@@ -25,3 +25,6 @@ This project presents an **interactive dashboard** designed to analyze and track
 - Learned to use **complex parameters** for drill-down and conditional formatting.
 - Improved skills in **data manipulation, relationships**, and building insightful **visual stories**.
 - Understood how to apply **data visualization best practices** for business impact.
+
+<img width="1923" height="918" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/5ca71b17-2a67-428e-bb5e-baa1a0a4dd6e" />
+
